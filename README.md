@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aditya-the-chessguy
 - 👀 I’m interested in chess and coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me at yt(@pewify2242) 
+- 🌱 I’m currently learning Python, C
+- 💞️ I’m looking to collaborate on C
+- 📫 How to reach me at aditya.adak.101@gmail.com
 - 😄 Pronouns:He/Him
 
 <!---
