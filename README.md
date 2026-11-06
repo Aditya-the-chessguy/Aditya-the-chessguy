@@ -49,7 +49,7 @@
 [LeetCode Stats](https://leetcard.jacoblin.cool/Aditya_Adak?theme=dark&font=baloo&ext=heatmap)
 
 - 🔥 Solving DSA in C++
-- 📂 All my solutions: [Aditya-the-chessguy/leet_soln](https://github.com/Aditya-the-chessguy/leet_soln)
+- 📂 All my solutions: [Aditya-the-chessguy/leet_soln](https://github.com/Aditya-the-chessguy/LeetCode-Solutions)
 - 🎯 Goal: 100+ Problems | Master Arrays, Strings, DP, Graphs
 
 ---
